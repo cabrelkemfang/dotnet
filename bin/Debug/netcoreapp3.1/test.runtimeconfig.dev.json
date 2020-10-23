@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/cabrel-kemfang/.dotnet/store/|arch|/|tfm|",
+      "/home/cabrel-kemfang/.nuget/packages"
+    ]
+  }
+}
